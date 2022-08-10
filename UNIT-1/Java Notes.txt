@@ -1,0 +1,24 @@
+Features of OOP
+==========================
+1)Emphasis is on data rather than procedure.
+2)Programs are divide into Objects.
+3)Data is hidden and can not accessed from the external functions.
+4)object may communicate with each other through functions.
+5)New data and functions can be added easily whenever required.
+6)OOP follow bottom-up approach in program design.
+7)Object is a collection of data & functions, function operates on data.
+8)more security provided for the data compare to POP.
+9)Data cannot move openely from one function to another function.
+========================
+Basic concept of OOP
+=========================
+1)Objects :
+- Basic runtime entities Knows as object.
+- They may represent person, table, bank account or any item that program may handle.
+- Object is a collection of data and functions.
+- objects are created from class.
+
+2)Classes :
+- It is collection of Similar types of object.
+- Class is collection of data and functions, functions operates on data.
+- You may creates objects from the class.
